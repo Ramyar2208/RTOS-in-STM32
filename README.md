@@ -47,7 +47,7 @@ Include the C files in Source group
 
 - Right click on Source Group 1 -> Add existing files to group
 
-Heap management: Include any one of the heap C file from FreeRTOS -> FreeRTOS-Kernel   ->  portable -> MemMang. Heap 4 implementation is preferred.
+**Heap management:** Include any one of the heap C file from FreeRTOS -> FreeRTOS-Kernel   ->  portable -> MemMang. Heap 4 implementation is preferred.
 
 
 OR, instead of manually including FreeRTOS, we can select RTOS when creating KEIL project
