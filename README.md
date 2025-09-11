@@ -3,7 +3,7 @@ Creating tasks in FreeRTOS with STM32 | STM32F103C8T6 | Arm Cortex M3
 
 **Blog post:** https://embedded-electronicsproject.blogspot.com/2025/01/rtos-in-stm32-stm32f103c8t6-arm-cortex.html
 
-
+ 
 We are using Free RTOS in STM32 in Keil IDE.
 
 **Steps to include RTOS in KEIL:**
